@@ -1,7 +1,5 @@
 Crowd Sourced Flags contributors
-======
-
-OC means Original Content and means the author created the flag mostly or entirely from scratch. If a flag isn't labelled OC, the author found it somewhere, rescaled it and added it to the pack without significant modification.
+====
 
 Jool System
 ----
@@ -76,14 +74,18 @@ USSR
 Misc
 ----
 
-- `Czech_Republic` - dmxz
+- `Benton` - /u/Robertotsexy98
 - `Blue_Star` - schnip (OC)
+- `Czech_Republic` - dmxz
+- `Dendarii_Mercenaries` - designed by duVallonFecit of http://duvallonfecit.deviantart.com/ and submitted with permission by mathuin
+- `European_Union` - dmxz
 - `GenericAerospace_bada55` - dmxz (OC)
 - `German_Empire` - dmxz
 - `Germany` - dmxz
 - `Greece` - dmxz
+- `Hermes2244` - /u/Hermes2244 (OC)
 - `Sparta` - TRAJAN 117 on the Wikimedia Commons (OC)
 - `Slovakia` - dmxz
+- `Texas` - /u/VenditatioDeletaEst
 - `USA` - dmxz
 - `Viking` - Supermagnum on GitHub (OC)
-- `Dendarii_Mercenaries` - designed by duVallonFecit of http://duvallonfecit.deviantart.com/ and submitted with permission by mathuin
