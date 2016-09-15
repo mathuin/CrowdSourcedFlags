@@ -86,3 +86,4 @@ Misc
 - `Slovakia` - dmxz
 - `USA` - dmxz
 - `Viking` - Supermagnum on GitHub (OC)
+- `Dendarii_Mercenaries` - designed by duVallonFecit of http://duvallonfecit.deviantart.com/ and submitted with permission by mathuin
